@@ -3,7 +3,7 @@
 ## Collaborator:
 - Darnell Kikoo
 - Phillip Stanley
-- Zirrasyi 
+- Zirrasyi Putra
 - Ilan Asqolani
 - Ajeng Kinesti
 
